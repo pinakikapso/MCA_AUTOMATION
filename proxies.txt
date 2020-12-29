@@ -1,0 +1,10 @@
+209.127.191.180:80:bzowhtqi-dest:xuu05z8vwp5n
+45.130.255.198:80:bzowhtqi-dest:xuu05z8vwp5n
+45.130.255.243:80:bzowhtqi-dest:xuu05z8vwp5n
+185.164.56.20:80:bzowhtqi-dest:xuu05z8vwp5n
+45.130.255.147:80:bzowhtqi-dest:xuu05z8vwp5n
+45.95.96.132:80:bzowhtqi-dest:xuu05z8vwp5n
+45.95.96.237:80:bzowhtqi-dest:xuu05z8vwp5n
+45.95.96.187:80:bzowhtqi-dest:xuu05z8vwp5n
+45.94.47.66:80:bzowhtqi-dest:xuu05z8vwp5n
+193.8.56.119:80:bzowhtqi-dest:xuu05z8vwp5n
