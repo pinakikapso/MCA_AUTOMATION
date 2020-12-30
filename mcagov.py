@@ -29,8 +29,6 @@ class Scrapper:
     def __init__(self,url,prox_obj=None):
         self.url=url
         self.webdriver=webdriver
-        self.options =self.webdriver.ChromeOptions()
-        self.options.add_argument('--headless')
         self.prox=prox_obj
     def use_proxy(self):
         PROXY=self.prox.get_proxy()
