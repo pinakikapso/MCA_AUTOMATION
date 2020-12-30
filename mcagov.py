@@ -19,7 +19,8 @@ with open('CINS.txt','r') as f:
     CINS=f.read().split('\n')
 PATH=os.path.abspath('Driver')
 URL='http://www.mca.gov.in/'
-PROXY_URL='https://free-proxy-list.net/'
+#PROXY_URL='https://free-proxy-list.net/'
+PROXY_URL='http://proxy.link/list/get/f0560a60eb15710ba7bf875771e82090?geo=true'
 PROXY_TXT='proxies.txt'
 md=Mongodb()
 class Scrapper:
@@ -120,8 +121,12 @@ class Scrapper:
                 submit2=self.driver.find_element(By.ID,'viewCategoryDetails_0')
                 try:
                     time.sleep(1)
+                    strt=time.time()
                     submit2.click()
                     time.sleep(1)
+                    dur=time.time()-strt
+                    if dur>20:
+                        self.driver.refresh()
                     table_page=self.driver.page_source
                     data=self.get_data(table_page,cin)
                     dataframe=pd.DataFrame(data)
@@ -144,11 +149,11 @@ def runner(prox,cin_list):
         scrp.scrap(cin)
 
 def main():
-    prox=GetProxy(PROXY_URL,PROXY_TXT)
+    prox=GetProxy(PROXY_URL)
     scrp=Scrapper(URL,prox)
     n_cins=len(CINS)
     print(n_cins)
-    for cin in CINS:
+    for cin in CINS[20:]:
         print(cin)
         try:
             cin_old=cin
