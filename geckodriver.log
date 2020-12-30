@@ -1,0 +1,496 @@
+1609328752637	geckodriver	INFO	Listening on 127.0.0.1:50641
+1609328757935	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Pinaki\\AppData\\Local\\Temp\\rust_mozprofile1u0iBX"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609328771162	Marionette	INFO	Listening on port 50652
+1609328771216	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+JavaScript error: http://www.mca.gov.in/, line 1: ReferenceError: setcolor is not defined
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 11: TypeError: document.viewDocuments is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609328788018	Marionette	INFO	Stopped listening on port 50652
+1609328829120	geckodriver	INFO	Listening on 127.0.0.1:50728
+1609328832843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Pinaki\\AppData\\Local\\Temp\\rust_mozprofile6hRqda"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1609328838967	Marionette	INFO	Listening on port 50741
+1609328839165	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609328886487	Marionette	INFO	Stopped listening on port 50741
+9328844278	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Pinaki\\AppData\\Local\\Temp\\rust_mozprofilerhr73a"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609328849553	Marionette	INFO	Listening on port 50785
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1609328850011	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609328850034	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"34.93.243.67:80","httpProxy":"34.93.243.67:80","sslProxy":"34.93.243.67:80"}
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609328881293	Marionette	INFO	Stopped listening on port 50785
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609328897423	geckodriver	INFO	Listening on 127.0.0.1:50842
+1609328901250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Pinaki\\AppData\\Local\\Temp\\rust_mozprofile4RPhXw"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1609328912293	Marionette	INFO	Listening on port 50853
+1609328912367	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609329402734	Marionette	INFO	Stopped listening on port 50853
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Pinaki\\AppData\\Local\\Temp\\rust_mozprofileRAs0CN"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1609328988867	Marionette	INFO	Listening on port 50933
+1609328989220	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 7928, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1609329401239	Marionette	INFO	Stopped listening on port 50933
+1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609329004084	Marionette	INFO	Listening on port 50983
+1609329004238	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609329004243	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"5.61.58.211:4457","httpProxy":"5.61.58.211:4457","sslProxy":"5.61.58.211:4457"}
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1609329014304	Marionette	INFO	Stopped listening on port 50983
+1609329041674	geckodriver	INFO	Listening on 127.0.0.1:51089
+1609329045821	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Pinaki\\AppData\\Local\\Temp\\rust_mozprofileKrhVlW"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609329061962	Marionette	INFO	Listening on port 51101
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1609329062395	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.mca.gov.in/, line 106: ReferenceError: ScrollInterval is not defined
+JavaScript error: http://www.mca.gov.in/, line 1: ReferenceError: setcolor is not defined
+JavaScript error: http://www.mca.gov.in/, line 110: ReferenceError: DivElmnt is not defined
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 11: TypeError: document.viewDocuments is undefined
+1609329079352	Marionette	INFO	Stopped listening on port 51101
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609329410727	geckodriver	INFO	Listening on 127.0.0.1:51233
+1609329415382	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Pinaki\\AppData\\Local\\Temp\\rust_mozprofileiBMiur"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1609329422599	Marionette	INFO	Listening on port 51245
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1609329422884	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.mca.gov.in/, line 106: ReferenceError: ScrollInterval is not defined
+JavaScript error: http://www.mca.gov.in/, line 1: ReferenceError: setcolor is not defined
+JavaScript error: http://www.mca.gov.in/, line 110: ReferenceError: DivElmnt is not defined
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+[Parent 2936, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1609329454328	Marionette	INFO	Stopped listening on port 51245
+1609329466438	geckodriver	INFO	Listening on 127.0.0.1:51315
+1609329469456	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Pinaki\\AppData\\Local\\Temp\\rust_mozprofileH5tU3U"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609329479826	Marionette	INFO	Listening on port 51327
+1609329479927	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[Parent 6848, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1609329512498	Marionette	INFO	Stopped listening on port 51327
+ground" "-no-remote" "-profile" "C:\\Users\\Pinaki\\AppData\\Local\\Temp\\rust_mozprofileMumnhO"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609329490797	Marionette	INFO	Listening on port 51381
+1609329490988	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+JavaScript error: http://www.mca.gov.in/, line 1: ReferenceError: setcolor is not defined
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+[Parent 6764, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1609329528969	Marionette	INFO	Stopped listening on port 51381
+1609329629583	geckodriver	INFO	Listening on 127.0.0.1:51464
+1609329633345	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Pinaki\\AppData\\Local\\Temp\\rust_mozprofilehMKXkD"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1609329638732	Marionette	INFO	Listening on port 51476
+1609329639102	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5708, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+[Parent 5708, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+1609329936089	Marionette	INFO	Stopped listening on port 51476
+umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1609329647950	Marionette	INFO	Listening on port 51524
+1609329648053	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.mca.gov.in/, line 1: ReferenceError: setcolor is not defined
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+1609329724575	Marionette	INFO	Stopped listening on port 51524
+1609329884891	geckodriver	INFO	Listening on 127.0.0.1:51852
+1609329888805	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Pinaki\\AppData\\Local\\Temp\\rust_mozprofiletOUu6N"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609329896920	Marionette	INFO	Listening on port 51864
+1609329897166	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1609329932881	Marionette	INFO	Stopped listening on port 51864
+zprofileGxKgE3"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1609329911844	Marionette	INFO	Listening on port 51911
+1609329912006	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.mca.gov.in/, line 1: ReferenceError: setcolor is not defined
+JavaScript error: http://www.mca.gov.in/, line 106: ReferenceError: ScrollInterval is not defined
+JavaScript error: http://www.mca.gov.in/, line 110: ReferenceError: DivElmnt is not defined
+JavaScript error: http://www.mca.gov.in/, line 106: ReferenceError: ScrollInterval is not defined
+JavaScript error: http://www.mca.gov.in/, line 110: ReferenceError: DivElmnt is not defined
+JavaScript error: http://www.mca.gov.in/, line 106: ReferenceError: ScrollInterval is not defined
+JavaScript error: http://www.mca.gov.in/, line 110: ReferenceError: DivElmnt is not defined
+JavaScript error: http://www.mca.gov.in/, line 106: ReferenceError: ScrollInterval is not defined
+JavaScript error: http://www.mca.gov.in/, line 110: ReferenceError: DivElmnt is not defined
+JavaScript error: http://www.mca.gov.in/, line 106: ReferenceError: ScrollInterval is not defined
+JavaScript error: http://www.mca.gov.in/, line 110: ReferenceError: DivElmnt is not defined
+JavaScript error: http://www.mca.gov.in/, line 106: ReferenceError: ScrollInterval is not defined
+JavaScript error: http://www.mca.gov.in/, line 110: ReferenceError: DivElmnt is not defined
+JavaScript error: http://www.mca.gov.in/, line 106: ReferenceError: ScrollInterval is not defined
+JavaScript error: http://www.mca.gov.in/, line 110: ReferenceError: DivElmnt is not defined
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+1609329930577	Marionette	INFO	Stopped listening on port 51911
+1609329962054	geckodriver	INFO	Listening on 127.0.0.1:51983
+1609329966221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Pinaki\\AppData\\Local\\Temp\\rust_mozprofileM9K17F"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1609329977280	Marionette	INFO	Listening on port 51994
+1609329977407	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1609330042406	Marionette	INFO	Stopped listening on port 51994
+9329982082	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Pinaki\\AppData\\Local\\Temp\\rust_mozprofilepIMj2w"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609329988576	Marionette	INFO	Listening on port 52050
+1609329989019	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+JavaScript error: http://www.mca.gov.in/, line 1: ReferenceError: setcolor is not defined
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609330052814	Marionette	INFO	Stopped listening on port 52050
+1609330110057	geckodriver	INFO	Listening on 127.0.0.1:52255
+1609330113960	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Pinaki\\AppData\\Local\\Temp\\rust_mozprofileR93Hhn"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609330125386	Marionette	INFO	Listening on port 52268
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1609330125675	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609330174579	Marionette	INFO	Stopped listening on port 52268
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Pinaki\\AppData\\Local\\Temp\\rust_mozprofile3XIc3V"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1609330138134	Marionette	INFO	Listening on port 52325
+1609330138569	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609330172959	Marionette	INFO	Stopped listening on port 52325
+1609330595567	geckodriver	INFO	Listening on 127.0.0.1:52689
+1609330598608	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Pinaki\\AppData\\Local\\Temp\\rust_mozprofileCejK99"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1609330603446	Marionette	INFO	Listening on port 52697
+1609330603843	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1609330706060	Marionette	INFO	Stopped listening on port 52697
+1609330733219	geckodriver	INFO	Listening on 127.0.0.1:52755
+1609330736245	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Pinaki\\AppData\\Local\\Temp\\rust_mozprofileq1pjcc"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1609330741119	Marionette	INFO	Listening on port 52764
+1609330741340	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609330747182	Marionette	INFO	Stopped listening on port 52764
+1609330871118	geckodriver	INFO	Listening on 127.0.0.1:52821
+1609330874138	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Pinaki\\AppData\\Local\\Temp\\rust_mozprofileYUjD6t"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609330878410	Marionette	INFO	Listening on port 52829
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1609330878907	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609330884861	Marionette	INFO	Stopped listening on port 52829
+1609331170718	geckodriver	INFO	Listening on 127.0.0.1:52940
+1609331173838	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Pinaki\\AppData\\Local\\Temp\\rust_mozprofileWsaK4P"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609331178855	Marionette	INFO	Listening on port 52948
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1609331179167	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1609331193513	Marionette	INFO	Stopped listening on port 52948
+1609331231023	geckodriver	INFO	Listening on 127.0.0.1:53004
+1609331234035	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Pinaki\\AppData\\Local\\Temp\\rust_mozprofiletTQ6a1"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1609331239247	Marionette	INFO	Listening on port 53013
+1609331239411	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.mca.gov.in/, line 106: ReferenceError: ScrollInterval is not defined
+JavaScript error: http://www.mca.gov.in/, line 1: ReferenceError: setcolor is not defined
+JavaScript error: http://www.mca.gov.in/, line 110: ReferenceError: DivElmnt is not defined
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 7664, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1609332825308	Marionette	INFO	Stopped listening on port 53013
+1609333152693	geckodriver	INFO	Listening on 127.0.0.1:53361
+1609333155735	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Pinaki\\AppData\\Local\\Temp\\rust_mozprofileqSdCFP"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609333161220	Marionette	INFO	Listening on port 53369
+1609333161775	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+JavaScript error: http://www.mca.gov.in/, line 106: ReferenceError: ScrollInterval is not defined
+JavaScript error: http://www.mca.gov.in/, line 1: ReferenceError: setcolor is not defined
+JavaScript error: http://www.mca.gov.in/, line 110: ReferenceError: DivElmnt is not defined
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1609333205945	Marionette	INFO	Stopped listening on port 53369
+1609333242027	geckodriver	INFO	Listening on 127.0.0.1:53433
+1609333245004	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Pinaki\\AppData\\Local\\Temp\\rust_mozprofileAhy352"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1609333249926	Marionette	INFO	Listening on port 53441
+1609333250284	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.mca.gov.in/, line 106: ReferenceError: ScrollInterval is not defined
+JavaScript error: http://www.mca.gov.in/, line 1: ReferenceError: setcolor is not defined
+JavaScript error: http://www.mca.gov.in/, line 110: ReferenceError: DivElmnt is not defined
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: resource://activity-stream/lib/ASRouter.js1609333424647	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remot1609333425441	Marionette	INFO	Stopped listening on port 53441
+zprofileM70mnS"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609333431279	Marionette	INFO	Listening on port 53538
+1609333431634	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+JavaScript error: http://www.mca.gov.in/, line 1: ReferenceError: setcolor is not defined
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 11: TypeError: document.viewDocuments is undefined
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1609333475910	Marionette	INFO	Stopped listening on port 53538

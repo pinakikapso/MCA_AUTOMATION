@@ -13,6 +13,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support.expected_conditions import *
 from database.mongodb import Mongodb
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.proxy import Proxy, ProxyType
+from webdriver_manager.chrome import ChromeDriverManager
 import threading
 from proxy.Proxy import GetProxy
 with open('CINS.txt','r') as f:
@@ -27,17 +29,18 @@ class Scrapper:
     def __init__(self,url,prox_obj=None):
         self.url=url
         self.webdriver=webdriver
-        self.driver=self.webdriver.Chrome(PATH+r'\chromedriver.exe')
-        self.driver.implicitly_wait(10)
+        self.options =self.webdriver.ChromeOptions()
+        self.options.add_argument('--headless')
         self.prox=prox_obj
-    def apply_proxy(self,proxy):
-        if proxy:
-            self.webdriver.DesiredCapabilities.CHROME['proxy']={
-            "httpProxy":proxy,
-            "ftpProxy":proxy,
-            "sslProxy":proxy,
-             "proxyType":"MANUAL",     
-            }
+    def use_proxy(self):
+        PROXY=self.prox.get_proxy()
+        print(PROXY)
+        profile=self.webdriver.FirefoxProfile()
+        profile.set_preference('network.proxy_type',1)
+        profile.set_preference('network.proxy.http',PROXY.split(':')[0])
+        profile.set_preference('network.proxy.http_port',PROXY.split(':')[1])
+        profile.update_preferences()
+        self.driver=self.webdriver.Firefox(executable_path=PATH+r'\geckodriver.exe',firefox_profile=profile)
     def get_data(self,page,cins):
         soup=BeautifulSoup(page,'html.parser')
         results=soup.find(id='results')
@@ -58,17 +61,17 @@ class Scrapper:
         return data[1:]
     
     def scrap(self,cin):
-        if self.prox:
-            PROXY=self.prox.get_proxy()
-            print(PROXY)
-            self.apply_proxy(PROXY)
         df=None
         t=20
-        start=time.time()
-        self.driver.get(self.url)
-        self.driver.maximize_window() 
-        if time.time()-start>20:
-            self.driver.refresh()
+        if self.prox:
+            self.use_proxy()
+        else:
+            self.driver=self.webdriver.Firefox(executable_path=PATH+r'\geckodriver.exe')
+        try:
+            self.driver.get(self.url)
+            self.driver.maximize_window()
+        except:
+             self.driver.refresh()
         #mca=self.driver.find_element_by_xpath('/html/body/div[1]/div/div[2]/nav/div/ul/li[5]/a')
         mca=WebDriverWait(self.driver, t).until(presence_of_element_located((By.XPATH,'/html/body/div[1]/div/div[2]/nav/div/ul/li[5]/a')))
         #view_doc=self.driver.find_element_by_xpath('/html/body/div[1]/div/div[2]/nav/div/ul/li[5]/div/div/div/ul[4]/li[1]/ul/li[2]/a')
@@ -133,9 +136,10 @@ class Scrapper:
                     df=pd.concat([df,dataframe],axis=0,ignore_index=True)
                 except:
                     time.sleep(1)
-                    WebDriverWait(self.driver, t).until(presence_of_element_located((By.XPATH,'/html/body/div[1]/div[6]/div[1]/section/div[2]/a')))
-                    popup=self.driver.find_element_by_xpath('/html/body/div[1]/div[6]/div[1]/section/div[2]/a') 
+                    WebDriverWait(self.driver, t).until(presence_of_element_located((By.ID,'msgboxclose')))
+                    popup=self.driver.find_element(By.ID,'msgboxclose') 
                     #popup=WebDriverWait(self.driver, 10).until(element_to_be_clickable((By.XPATH,'/html/body/div[1]/div[6]/div[1]/section/div[2]/a'))) 
+                    time.sleep(0.5)
                     popup.click()
                 
             if df is not None:
@@ -153,13 +157,9 @@ def main():
     scrp=Scrapper(URL,prox)
     n_cins=len(CINS)
     print(n_cins)
-    for cin in CINS[20:]:
+    for cin in CINS:
         print(cin)
-        try:
-            cin_old=cin
-            scrp.scrap(cin)
-        except:
-            scrp.scrap(cin_old)
+        scrp.scrap(cin)
     '''
     for i in range(0,n_cins,n_ips):
         strt=i

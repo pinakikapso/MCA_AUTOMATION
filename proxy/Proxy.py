@@ -9,8 +9,8 @@ class GetProxy:
         proxies=r.content.decode('utf-8').split('\n')
         proxy_list=[p.split(':')[0]+':'+p.split(':')[1] for p in proxies]
         return choice(proxy_list)
-    '''
-    def get_proxy(self):
+    
+    def get_proxy1(self):
         r=requests.get(self.url)
         soup=BeautifulSoup(r.content,'html5lib')
         tds=soup.find_all('td')[::8]
@@ -19,4 +19,4 @@ class GetProxy:
         ips=[ip for ip in ips if ip]
         proxy={'https':choice(ips)}
         return proxy['https']
-    '''
+    
