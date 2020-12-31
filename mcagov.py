@@ -52,24 +52,15 @@ class Scrapper:
                     data['Date of Filling'].append(row('td')[1].text.replace('\t','').replace('\n',''))
                 
         return data
+    
     def get_values(self,page,i):
         soup=BeautifulSoup(page,'html.parser')
         d=soup.find(id=i)
         data=[opt['value'] for opt in d.find_all('option')]
         return data[1:]
-    
-    def scrap(self,cin):
+    def extract(self,cin):
         df=None
         t=20
-        if self.prox:
-            self.use_proxy()
-        else:
-            self.driver=self.webdriver.Firefox(executable_path=PATH+r'\geckodriver.exe')
-        try:
-            self.driver.get(self.url)
-            self.driver.maximize_window()
-        except:
-             self.driver.refresh()
         #mca=self.driver.find_element_by_xpath('/html/body/div[1]/div/div[2]/nav/div/ul/li[5]/a')
         mca=WebDriverWait(self.driver, t).until(presence_of_element_located((By.XPATH,'/html/body/div[1]/div/div[2]/nav/div/ul/li[5]/a')))
         #view_doc=self.driver.find_element_by_xpath('/html/body/div[1]/div/div[2]/nav/div/ul/li[5]/div/div/div/ul[4]/li[1]/ul/li[2]/a')
@@ -138,11 +129,25 @@ class Scrapper:
                     popup=self.driver.find_element(By.ID,'msgboxclose') 
                     #popup=WebDriverWait(self.driver, 10).until(element_to_be_clickable((By.XPATH,'/html/body/div[1]/div[6]/div[1]/section/div[2]/a'))) 
                     time.sleep(0.5)
-                    popup.click()
-                
+                    popup.click()              
             if df is not None:
                 data_dict=df.to_dict('records')
                 md._insert(data_dict)
+
+    def scrap(self,cin):
+        if self.prox:
+            self.use_proxy()
+        else:
+            self.driver=self.webdriver.Firefox(executable_path=PATH+r'\geckodriver.exe')
+        try:
+            self.driver.get(self.url)
+            self.driver.maximize_window()
+            self.extract(cin)
+        except:
+            print('reload')
+            self.driver.refresh()
+
+        
 def runner(prox,cin_list):
     scrp=Scrapper(URL,prox)
     print(threading.current_thread(),cin_list)

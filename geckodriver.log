@@ -494,3 +494,845 @@ JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, li
 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
 JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
 1609333475910	Marionette	INFO	Stopped listening on port 53538
+1609334866522	geckodriver	INFO	Listening on 127.0.0.1:53867
+1609334869596	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Pinaki\\AppData\\Local\\Temp\\rust_mozprofilev50KIh"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609334874141	Marionette	INFO	Listening on port 53875
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1609334874816	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.mca.gov.in/, line 1: ReferenceError: setcolor is not defined
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+1609334917294	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+1609334950670	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+1609334955884	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+1609334960898	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 7128, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1609337906092	Marionette	INFO	Stopped listening on port 53875
+FX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://activity-stream/lib/ASRouterNewTabHook.jsm, line 61: TypeError: this._router is null
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 928: Error: Connection is not open.
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://activity-stream/lib/PlacesFeed.jsm, line 198: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.addObserver]
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 122: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine amazondotcom@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+1609336331862	geckodriver	INFO	Listening on 127.0.0.1:54268
+1609336334918	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Pinaki\\AppData\\Local\\Temp\\rust_mozprofileuEhFxS"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609336342830	Marionette	INFO	Listening on port 54276
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1609336343203	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.mca.gov.in/, line 106: ReferenceError: ScrollInterval is not defined
+JavaScript error: http://www.mca.gov.in/, line 1: ReferenceError: setcolor is not defined
+JavaScript error: http://www.mca.gov.in/, line 110: ReferenceError: DivElmnt is not defined
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1609340893387	Marionette	INFO	Stopped listening on port 54276
+igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1609337866386	Marionette	INFO	Listening on port 54636
+1609337866615	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.mca.gov.in/, line 106: ReferenceError: ScrollInterval is not defined
+JavaScript error: http://www.mca.gov.in/, line 110: ReferenceError: DivElmnt is not defined
+JavaScript error: http://www.mca.gov.in/, line 106: ReferenceError: ScrollInterval is not defined
+JavaScript error: http://www.mca.gov.in/, line 110: ReferenceError: DivElmnt is not defined
+JavaScript error: http://www.mca.gov.in/, line 106: ReferenceError: ScrollInterval is not defined
+JavaScript error: http://www.mca.gov.in/, line 110: ReferenceError: DivElmnt is not defined
+JavaScript error: http://www.mca.gov.in/, line 106: ReferenceError: ScrollInterval is not defined
+JavaScript error: http://www.mca.gov.in/, line 110: ReferenceError: DivElmnt is not defined
+JavaScript error: http://www.mca.gov.in/, line 1: ReferenceError: setcolor is not defined
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 7524, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1609340890589	Marionette	INFO	Stopped listening on port 54636
+FX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1609340249100	Marionette	INFO	Listening on port 57802
+1609340249172	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.mca.gov.in/, line 106: ReferenceError: ScrollInterval is not defined
+JavaScript error: http://www.mca.gov.in/, line 1: ReferenceError: setcolor is not defined
+JavaScript error: http://www.mca.gov.in/, line 110: ReferenceError: DivElmnt is not defined
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+1609340888362	Marionette	INFO	Stopped listening on port 57802
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Pinaki\\AppData\\Local\\Temp\\rust_mozprofileZtlY3K"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1609340390774	Marionette	INFO	Listening on port 57907
+1609340390875	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.mca.gov.in/, line 106: ReferenceError: ScrollInterval is not defined
+JavaScript error: http://www.mca.gov.in/, line 1: ReferenceError: setcolor is not defined
+JavaScript error: http://www.mca.gov.in/, line 110: ReferenceError: DivElmnt is not defined
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 6840, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1609340884824	Marionette	INFO	Stopped listening on port 57907
+FX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1609340852740	Marionette	INFO	Listening on port 58073
+1609340852990	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.mca.gov.in/, line 1: ReferenceError: setcolor is not defined
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 11: TypeError: document.viewDocuments is undefined
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 11: TypeError: document.viewDocuments is undefined
+1609340883859	Marionette	INFO	Stopped listening on port 58071609340885232	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Pinaki\\AppData\\Local\\Temp\\rust_mozprofile8FQclu"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1609340894615	Marionette	INFO	Listening on port 58162
+1609340894897	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.mca.gov.in/, line 1: ReferenceError: setcolor is not defined
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+[Parent 4052, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1609340928431	Marionette	INFO	Stopped listening on port 58162
+1609340993821	geckodriver	INFO	Listening on 127.0.0.1:58249
+1609340997103	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Pinaki\\AppData\\Local\\Temp\\rust_mozprofileQqqkJN"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609341003968	Marionette	INFO	Listening on port 58257
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1609341004500	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.mca.gov.in/, line 106: ReferenceError: ScrollInterval is not defined
+JavaScript error: http://www.mca.gov.in/, line 1: ReferenceError: setcolor is not defined
+JavaScript error: http://www.mca.gov.in/, line 110: ReferenceError: DivElmnt is not defined
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 11: TypeError: document.viewDocuments is undefined
+1609341017536	Marionette	INFO	Stopped listening on port 58257
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609353142135	geckodriver	INFO	Listening on 127.0.0.1:50458
+1609353145413	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Pinaki\\AppData\\Local\\Temp\\rust_mozprofileQ0nXyo"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1609353174708	Marionette	INFO	Listening on port 50467
+1609353175397	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.mca.gov.in/, line 1: ReferenceError: setcolor is not defined
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+[Parent 5336, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+[Parent 5336, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1609356101753	Marionette	INFO	Stopped listening on port 50467
+version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1609354613724	Marionette	INFO	Listening on port 50819
+1609354613879	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.mca.gov.in/, line 1: ReferenceError: setcolor is not defined
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1609356106643	Marionette	INFO	Stopped listening on port 50819
+zprofileP9xtqE"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1609355999372	Marionette	INFO	Listening on port 51139
+1609355999640	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5548, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+JavaScript error: http://www.mca.gov.in/, line 106: ReferenceError: ScrollInterval is not defined
+JavaScript error: http://www.mca.gov.in/, line 110: ReferenceError: DivElmnt is not defined
+JavaScript error: http://www.mca.gov.in/, line 106: ReferenceError: ScrollInterval is not defined
+JavaScript error: http://www.mca.gov.in/, line 110: ReferenceError: DivElmnt is not defined
+JavaScript error: http://www.mca.gov.in/, line 106: ReferenceError: ScrollInterval is not defined
+JavaScript error: http://www.mca.gov.in/, line 1: ReferenceError: setcolor is not defined
+JavaScript error: http://www.mca.gov.in/, line 110: ReferenceError: DivElmnt is not defined
+JavaScript error: http://www.mca.gov.in/, line 106: ReferenceError: ScrollInterval is not defined
+JavaScript error: http://www.mca.gov.in/, line 110: ReferenceError: DivElmnt is not defined
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+1609356545147	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609356551904	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609356558656	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609356572899	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+[Parent 5548, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1609357408138	Marionette	INFO	Stopped listening on port 51139
+ground" "-no-remote" "-profile" "C:\\Users\\Pinaki\\AppData\\Local\\Temp\\rust_mozprofileRZDHeO"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609357389020	Marionette	INFO	Listening on port 51725
+1609357389116	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+JavaScript error: http://www.mca.gov.in/, line 1: ReferenceError: setcolor is not defined
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 308, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1609357874919	Marionette	INFO	Stopped listening on port 51725
+GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1609357711753	Marionette	INFO	Listening on port 51931
+1609357712345	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.mca.gov.in/, line 1: ReferenceError: setcolor is not defined
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+[Parent 6528, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1609357802088	Marionette	INFO	Stopped listening on port 51931
+ground" "-no-remote" "-profile" "C:\\Users\\Pinaki\\AppData\\Local\\Temp\\rust_mozprofileMe2R6h"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609357759734	Marionette	INFO	Listening on port 52001
+1609357759832	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[Parent 4840, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+[Child 5248, ProcessHangMon] WARNING: failed to create pipe: 2: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:238
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+JavaScript error: http://www.mca.gov.in/, line 1: ReferenceError: setcolor is not defined
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1609359202292	Marionette	INFO	Stopped listening on port 52001
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+d igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609359180049	Marionette	INFO	Listening on port 52471
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[Parent 5784, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1609359180599	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.mca.gov.in/, line 1: ReferenceError: setcolor is not defined
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 5784, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1609360705788	Marionette	INFO	Stopped listening on port 52471
+FX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609360680547	Marionette	INFO	Listening on port 52885
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1609360680705	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.mca.gov.in/, line 1: ReferenceError: setcolor is not defined
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+1609362067025	Marionette	INFO	Stopped listening on port 52885
+9362038600	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Pinaki\\AppData\\Local\\Temp\\rust_mozprofileQc8vVM"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609362045131	Marionette	INFO	Listening on port 53213
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1609362045603	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.mca.gov.in/, line 106: ReferenceError: ScrollInterval is not defined
+JavaScript error: http://www.mca.gov.in/, line 110: ReferenceError: DivElmnt is not defined
+JavaScript error: http://www.mca.gov.in/, line 1: ReferenceError: setcolor is not defined
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 2192, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+[Parent 2192, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+[Parent 2192, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+[Parent 2192, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1609363540695	Marionette	INFO	Stopped listening on port 53213
+nette	INFO	Listening on port 53543
+1609363516376	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.mca.gov.in/, line 1: ReferenceError: setcolor is not defined
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1609364823619	Marionette	INFO	Stopped listening on port 53543
+zprofilevpu5F1"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1609364758001	Marionette	INFO	Listening on port 54383
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1609364758232	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.mca.gov.in/, line 1: ReferenceError: setcolor is not defined
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/viewPublicDocument.js, line 107: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+JavaScript error: http://www.mca.gov.in/mcafoportal/js/paging.js, line 104: TypeError: element is null
+[Parent 6944, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1609364872739	Marionette	INFO	Stopped listening on port 54383
