@@ -39,15 +39,14 @@ class Scrapper:
     def use_proxy(self):
         while True:
             PROXY=random.choice(self.prox.getProxies())
-            desired_capability=self.webdriver.DesiredCapabilities.FIREFOX
-            desired_capability['proxy'] = {
-            "proxyType": "manual",
-            "httpProxy": PROXY,
-            "ftpProxy": PROXY,
-            "sslProxy": PROXY
-            }
+            self.webdriver.DesiredCapabilities.CHROME['proxy'] = {
+                "proxyType": "manual",
+                "httpProxy": PROXY,
+                "ftpProxy": PROXY,
+                "sslProxy": PROXY
+                }
             #fp.set_preference("general.useragent.override",agent)
-            self.driver=self.webdriver.Firefox(executable_path=PATH+r'\geckodriver.exe',capabilities=desired_capability, timeout=30)
+            self.driver=self.webdriver.Chrome(PATH+r'\chromedriver.exe')
             try:
                 self.driver.get(self.url)
                 time.sleep(5)
@@ -55,11 +54,16 @@ class Scrapper:
             except:
                 pass
                 self.driver.close()
+    def get_data1(self,page):
+        soup=BeautifulSoup(page,'html.parser')
+        results=soup.find(id='results')
+        if results is None:
+            raise Exception('status 0')
     def get_data(self,page,cins):
         soup=BeautifulSoup(page,'html.parser')
         results=soup.find(id='results')
         if results is None:
-            raise Exception('Status 0')
+            return None
         data_list=[]
         for row in  results.find_all('tr'):
             if len(row('td'))!=0:
@@ -69,6 +73,8 @@ class Scrapper:
     def get_values(self,page,i):
         soup=BeautifulSoup(page,'html.parser')
         d=soup.find(id=i)
+        if d is None:
+            return None
         data=[opt['value'] for opt in d.find_all('option')]
         return data[1:]
 
@@ -94,19 +100,22 @@ class Scrapper:
         time.sleep(delay/2)
         submit1=WebDriverWait(self.driver, t).until(element_to_be_clickable((By.ID,'viewDocuments_0')))
         submit1.click()
+        time.sleep(delay/2)
         status_page=self.driver.page_source
-        _=self.get_data(status_page,cin)
+        self.get_data1(status_page)
         status=WebDriverWait(self.driver, t).until(element_to_be_clickable((By.XPATH,'/html/body/div[1]/div[6]/div[1]/section/form/table[3]/tbody/tr[2]/td[2]/a')))
         status.click()
         time.sleep(delay)
         doc_page=self.driver.page_source
         cats=self.get_values(doc_page,i="viewCategoryDetails_categoryName")
         dates=self.get_values(doc_page,i="viewCategoryDetails_finacialYear")
+        if cats is None or dates is None:
+            self.driver.refresh()
         for c in cats:
             cat_select=Select(WebDriverWait(self.driver, t).until(presence_of_element_located((By.ID,'viewCategoryDetails_categoryName'))))
             cat_select.select_by_value(c)
             time.sleep(delay)
-            for d in dates[0:18]:
+            for d in dates:
                 year_select=Select(WebDriverWait(self.driver, t).until(presence_of_element_located((By.ID,"viewCategoryDetails_finacialYear"))))
                 time.sleep(delay)
                 year_select.select_by_value(d)
@@ -115,7 +124,7 @@ class Scrapper:
                     WebDriverWait(self.driver, 100000).until(element_to_be_clickable((By.ID,'viewCategoryDetails_0'))).click()
                     table_page=self.driver.page_source
                     data=self.get_data(table_page,cin)
-                    if (time.time()-t2)>50:
+                    if ((time.time()-t2)>50) or (data is None):
                         self.driver.refresh()
                     md._insert(data)
                 except:
@@ -130,7 +139,7 @@ class Scrapper:
         if self.prox:
             self.use_proxy()
         else:
-            self.driver=self.webdriver.Firefox(executable_path=PATH+r'\geckodriver.exe')
+            self.driver=self.webdriver.Chrome(executable_path=PATH+r'\chromedriver.exe')
         self.driver.get(self.url)
         self.driver.maximize_window()
         self.extract(cin)
@@ -145,13 +154,16 @@ def main():
             print('Total cins',i)
             scrp.scrap(CINS[i])
             i+=1
+            print('Next')
         except Exception as e:
-            if e.args[0]=='Status 0':
-                print('No company found')
-                scrp.driver.close()
+            if e.args[0]=='status 0':
                 i+=1
-                continue
+                print(e.args[0])
+                scrp.driver.close()
+                time.sleep(0.5)
+                scrp.scrap(CINS[i])
             else:
+                print('Exception')
                 scrp.driver.close()
                 scrp.scrap(CINS[i])
 if __name__ == "__main__":
