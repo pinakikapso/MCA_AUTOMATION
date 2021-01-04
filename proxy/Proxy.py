@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 from random import choice
+from http_request_randomizer.requests.proxy.requestProxy import RequestProxy
 class GetProxy:
     def __init__(self,url):
         self.url=url
@@ -8,15 +9,20 @@ class GetProxy:
         r=requests.get(self.url)
         proxies=r.content.decode('utf-8').split('\n')
         proxy_list=[p.split(':')[0]+':'+p.split(':')[1] for p in proxies]
-        return choice(proxy_list)
+        return choice(proxy_list[::-1])
+    def getProxies(self):
+        r = requests.get('https://free-proxy-list.net/')
+        soup = BeautifulSoup(r.content, 'html.parser')
+        table = soup.find('tbody')
+        proxies = []
+        for row in table:
+            if row.find_all('td')[4].text =='elite proxy' and  row.find_all('td')[6].text=='yes':
+                proxy = ':'.join([row.find_all('td')[0].text, row.find_all('td')[1].text])
+                proxies.append(proxy)
+            else:
+                pass
+        return proxies
     
-    def get_proxy1(self):
-        r=requests.get(self.url)
-        soup=BeautifulSoup(r.content,'html5lib')
-        tds=soup.find_all('td')[::8]
-        ips=list(map(lambda x:x[0]+':'+x[1] if x[2]=='India' else None,list(zip(map(lambda x:x.text,tds),map(lambda x:x.text,soup.find_all('td')[1::8]),
-        map(lambda x:x.text,soup.find_all('td')[3::8])))))
-        ips=[ip for ip in ips if ip]
-        proxy={'https':choice(ips)}
-        return proxy['https']
+
     
+

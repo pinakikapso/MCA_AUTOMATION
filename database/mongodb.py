@@ -15,9 +15,10 @@ class Mongodb(object):
         return d
 
     def _insert(self,data):
-        for d in data:
-            check=self._get(d)
-            if check  is None:
-                self.records.insert_one(d)
+        check_doc=[d['Document Name'] for d in data]
+        if self.records.find({"Document Name":{"$in":check_doc}}):
+            print('available')
+        else:
+            self.records.insert(data)
 
     
