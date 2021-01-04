@@ -115,7 +115,7 @@ class Scrapper:
             cat_select=Select(WebDriverWait(self.driver, t).until(presence_of_element_located((By.ID,'viewCategoryDetails_categoryName'))))
             cat_select.select_by_value(c)
             time.sleep(delay)
-            for d in dates:
+            for d in dates[0:18]:
                 year_select=Select(WebDriverWait(self.driver, t).until(presence_of_element_located((By.ID,"viewCategoryDetails_finacialYear"))))
                 time.sleep(delay)
                 year_select.select_by_value(d)
