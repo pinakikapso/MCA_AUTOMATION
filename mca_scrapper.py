@@ -20,6 +20,7 @@ from itertools import combinations
 from itertools import product  
 from selenium.webdriver.support.ui import Select
 import random
+from webdriver_manager.chrome import ChromeDriverManager
 with open('CINS.txt','r') as f:
     CINS=f.read().split('\n')
 PATH=os.path.abspath('Driver')
@@ -36,6 +37,7 @@ class Scrapper:
         self.prox=prox_obj
         self.last_k=0
         self.last_d=0
+        self.driver=None
     def use_proxy(self):
         while True:
             PROXY=random.choice(self.prox.getProxies())
@@ -46,7 +48,7 @@ class Scrapper:
                 "sslProxy": PROXY
                 }
             #fp.set_preference("general.useragent.override",agent)
-            self.driver=self.webdriver.Chrome(PATH+r'\chromedriver.exe')
+            self.driver=self.webdriver.Chrome(ChromeDriverManager().install())
             try:
                 self.driver.get(self.url)
                 time.sleep(5)
@@ -115,7 +117,7 @@ class Scrapper:
             cat_select=Select(WebDriverWait(self.driver, t).until(presence_of_element_located((By.ID,'viewCategoryDetails_categoryName'))))
             cat_select.select_by_value(c)
             time.sleep(delay)
-            for d in dates:
+            for d in dates[0:18]:
                 year_select=Select(WebDriverWait(self.driver, t).until(presence_of_element_located((By.ID,"viewCategoryDetails_finacialYear"))))
                 time.sleep(delay)
                 year_select.select_by_value(d)
@@ -139,7 +141,7 @@ class Scrapper:
         if self.prox:
             self.use_proxy()
         else:
-            self.driver=self.webdriver.Chrome(executable_path=PATH+r'\chromedriver.exe')
+            self.driver=self.webdriver.Chrome(ChromeDriverManager().install())
         self.driver.get(self.url)
         self.driver.maximize_window()
         self.extract(cin)
@@ -148,7 +150,7 @@ def main():
     scrp=Scrapper(URL,None)
     n_cins=len(CINS)
     print(n_cins)
-    i=0
+    i=46
     while i<=len(CINS):
         try:
             print('Total cins',i)

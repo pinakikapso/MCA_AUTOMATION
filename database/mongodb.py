@@ -10,15 +10,13 @@ class Mongodb(object):
         client=MongoClient('mongodb+srv://'+self.user+':'+self.password+'@'+self.cluster+'.ubduj.mongodb.net/<dbname>?retryWrites=true&w=majority')
         db=client.get_database(self.database)
         self.records=db.mca
-    def _get(self,data):
-        d=self.records.find_one(data)
-        return d
-
+    def delete(self):
+        self.records.delete_many({})
     def _insert(self,data):
-        check_doc=[d['Document Name'] for d in data]
-        if self.records.find({"Document Name":{"$in":check_doc}}):
-            print('available')
+        if self.records.find_one({'CIN':data['CIN']}):
+            print(f" Data for {data['CIN']} is available")
         else:
             self.records.insert(data)
+
 
     
